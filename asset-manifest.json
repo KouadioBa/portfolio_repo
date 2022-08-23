@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolio_repo.git/static/css/main.a4b550b5.css",
+    "main.js": "/portfolio_repo.git/static/js/main.23e58cd2.js",
+    "index.html": "/portfolio_repo.git/index.html",
+    "main.a4b550b5.css.map": "/portfolio_repo.git/static/css/main.a4b550b5.css.map",
+    "main.23e58cd2.js.map": "/portfolio_repo.git/static/js/main.23e58cd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4b550b5.css",
+    "static/js/main.23e58cd2.js"
+  ]
+}
