@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/KouadioBa/portfolio_repo.git/static/css/main.a4b550b5.css",
-    "main.js": "/KouadioBa/portfolio_repo.git/static/js/main.23e58cd2.js",
-    "index.html": "/KouadioBa/portfolio_repo.git/index.html",
-    "main.a4b550b5.css.map": "/KouadioBa/portfolio_repo.git/static/css/main.a4b550b5.css.map",
-    "main.23e58cd2.js.map": "/KouadioBa/portfolio_repo.git/static/js/main.23e58cd2.js.map"
+    "main.css": "/portfolio_repo/static/css/main.a4b550b5.css",
+    "main.js": "/portfolio_repo/static/js/main.23e58cd2.js",
+    "index.html": "/portfolio_repo/index.html",
+    "main.a4b550b5.css.map": "/portfolio_repo/static/css/main.a4b550b5.css.map",
+    "main.23e58cd2.js.map": "/portfolio_repo/static/js/main.23e58cd2.js.map"
   },
   "entrypoints": [
     "static/css/main.a4b550b5.css",
